@@ -1,0 +1,20 @@
+Contact should have fields for first name, last name, company, and job title.
+
+Each contact can have zero or more phone numbers, each associated with a label (e.g., home, mobile, work).
+
+Each contact can have zero or more email addresses, each associated with a label (e.g., personal, work, other).
+
+Each email class should have an address class field associated with it.
+
+Users can search through contacts based on first name, last name, company, job title, phone numbers, and email addresses.
+
+Users can add new contacts, providing first name, last name, company, job title, phone numbers, and email addresses.
+
+Users can update existing contacts, allowing modification of all fields including first name, last name, company, job title, phone numbers, and email addresses.
+
+Users can delete contacts from the system.
+
+Merge duplicate contacts based on similarities in first name, last name, company, job title, phone numbers, and email addresses.
+
+
+
